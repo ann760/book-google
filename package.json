@@ -1,7 +1,7 @@
 {
   "name": "googlebooks-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "AS AN avid reader I WANT to search for new books to read SO THAT I can keep a list of books to purchase",
   "main": "server/server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
@@ -18,11 +18,11 @@
   "author": "Ann-Marie Orozco",
   "license": "ISC",
   "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
     "apollo-server-express": "^2.19.0",
-    "if-env": "^1.0.4",
-    "@apollo/react-hooks": "^4.0.0"
+    "if-env": "^1.0.4"
   },
   "devDependencies": {
-    "concurrently": "^5.2.0"
+    "concurrently": "^5.3.0"
   }
 }
