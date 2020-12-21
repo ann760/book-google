@@ -1,9 +1,23 @@
+# Book Google MERN
 
+## Description
+Update react app to use graphql and connect front end to backend
+
+## Table of Contents
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Deployment URL](#Deployment-URL)
+- [GitHub Repo URL](#GitHub-Repo-URL)
+- [Screenshots](#screenshots)
+- [Author](#author)
+
+## User Story
 AS AN avid reader
 I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 
-
+## Acceptance Criteria
 - GIVEN a book search engine
 - WHEN I load the search engine
 - THEN I am presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
@@ -33,3 +47,16 @@ SO THAT I can keep a list of books to purchase
 - THEN that book is deleted from my saved books list
 - WHEN I click on the Logout button
 - THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
+
+## Deployment URL
+
+
+## GitHub Repo URL
+https://github.com/ann760/book-google
+
+## Screenshot
+![Books](./client/public/books.jpg)
+
+## Author
+* [Ann-Marie Orozco](http://ann760.github.io/developer-portfolio) follow the link to see my portfilo website
+* [Ann-Marie's git repository](https://github.com/ann760)
